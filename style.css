@@ -1,0 +1,10 @@
+.qa{
+		 position:relative;
+		 background:#e0f4d9;
+		 height:600px;
+		 padding:20px;
+		 margin-top:20px;
+		 box-shadow:inset 0px 0px 10px 3px #ace09a ;
+		 border-radius:10px;		
+		 list-style: none; 
+		}
